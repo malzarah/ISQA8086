@@ -1,1 +1,4 @@
-
+Problems with the dataset:-
+1. Missing values in all 3 datasets  In Zoo Temp Main file there are missing values in Temp column, next  missing values are found in 
+Pond dataset again in Temp column.
+2. 
