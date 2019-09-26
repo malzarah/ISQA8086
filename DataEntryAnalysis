@@ -1,4 +1,6 @@
 Problems with the dataset:-
 1. Missing values in all 3 datasets  In Zoo Temp Main file there are missing values in Temp column, next  missing values are found in 
 Pond dataset again in Temp column.
-2. 
+2. Data are collected for 3 days , however the sample is not equally distributed. 
+6/7/2011 has more vlaues, 6/4/2011 and 6/9/2011 have only few values.
+3. 
