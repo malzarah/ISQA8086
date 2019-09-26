@@ -1,4 +1,4 @@
-# Problems with the dataset:-
+#Problems with the dataset:-
 1. Missing values in all 3 datasets  In Zoo Temp Main file there are missing values in Temp column, next  missing values are found in 
 Pond dataset again in Temp column.
 2. Data are collected for 3 days , however the sample is not equally distributed. 
@@ -6,7 +6,7 @@ Pond dataset again in Temp column.
 3. Data is not normalized, they are unevenly distributed.
 4. All the datasets just have date, they don't mention the time when the data was collected, as mentioned in the problem that they change with time.
 
-# Section 2 :- New way of organizaing the data
+#Section 2 :- New way of organizaing the data
 
 Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
 
