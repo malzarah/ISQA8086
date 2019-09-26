@@ -3,4 +3,13 @@ Problems with the dataset:-
 Pond dataset again in Temp column.
 2. Data are collected for 3 days , however the sample is not equally distributed. 
 6/7/2011 has more vlaues, 6/4/2011 and 6/9/2011 have only few values.
-3. 
+3. Data is not normalized, they are unevenly distributed.
+4. All the datasets just have date, they don't mention the time when the data was collected, as mentioned in the problem that they change with time.
+
+Section 2 :- New way of organizaing the data
+
+Date| Time   |Depth |  Cuni #/L|	Cuni| ColonySize|	Chippo #/L|	Chippo| ColonySize|	Chla|	Temp|
+
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
