@@ -6,7 +6,7 @@ Pond dataset again in Temp column.
 3. Data is not normalized, they are unevenly distributed.
 4. All the datasets just have date, they don't mention the time when the data was collected, as mentioned in the problem that they change with time.
 5. Dataset doesn't show any correlation between depth and any other parameters, doing a T-test and other liner regression models, I couldn't find any relation between depth and other parameters. Possibly the sample size is less.
-6. 
+6. There seems to be a lot of outliers, which makes it difficult to make any statistical model.
 
 # Section 2 :- New way of organizaing the data
 Add time variable and see how they change.
@@ -14,6 +14,8 @@ Add time variable and see how they change.
 Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
 
 Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
