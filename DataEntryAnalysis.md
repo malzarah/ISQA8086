@@ -5,11 +5,15 @@ Pond dataset again in Temp column.
 6/7/2011 has more vlaues, 6/4/2011 and 6/9/2011 have only few values.
 3. Data is not normalized, they are unevenly distributed.
 4. All the datasets just have date, they don't mention the time when the data was collected, as mentioned in the problem that they change with time.
+5. Dataset doesn't show any correlation between depth and any other parameters, doing a T-test and other liner regression models, I couldn't find any relation between depth and other parameters. Possibly the sample size is less.
+6. 
 
 # Section 2 :- New way of organizaing the data
+Add time variable and see how they change.
 
 Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
 
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
+Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
