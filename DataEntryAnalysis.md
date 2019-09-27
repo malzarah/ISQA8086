@@ -11,11 +11,9 @@ Pond dataset again in Temp column.
 # Section 2 :- New way of organizaing the data
 Add time variable and see how they change.
 
-Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
+
 
 Date| Time |Depth| Cuni #/L|Cuni|ColonySize|Chippo #/L|Chippo|ColonySize|Chla|Temp|
-
-| Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
