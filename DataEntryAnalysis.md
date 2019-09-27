@@ -15,5 +15,7 @@ Add time variable and see how they change.
 
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Add Time when the Data was collected` |  This help to see which time data collection gives favorable result |
+| `Normalize DataSet` | Normalize will help to see any interesting patterns |
+| `Normalize DataSet` | Normalize will help to see any interesting patterns |
+| `Missing Values` | Predict Missing values using the available dataset |
