@@ -13,7 +13,7 @@ Add time variable and see how they change.
 
 
 
-| Command | Description |
+| Changes | Description |
 | --- | --- |
 | `Add Time when the Data was collected` |  This help to see which time data collection gives favorable result |
 | `Normalize DataSet` | Normalize will help to see any interesting patterns |
